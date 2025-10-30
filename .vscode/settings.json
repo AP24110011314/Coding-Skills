@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "pascal.C": "cpp",
+        "transpose.C": "cpp",
+        "transposereverse.C": "cpp",
+        "pascal1.C": "cpp",
+        "transpose2.C": "cpp",
+        "transposereverse3.C": "cpp",
+        "diagonal.C": "cpp",
+        "printmatspiral.C": "cpp",
+        "matsnake.C": "cpp",
+        "matalldiasum.C": "cpp",
+        "reversespiralmat.C": "cpp",
+        "iostream": "cpp",
+        "biggestarrayelement.C": "cpp",
+        "readprint2darray.C": "cpp",
+        "Subtract.C": "cpp",
+        "tempCodeRunnerFile.C": "cpp",
+        "snake.C": "cpp",
+        "p2p2darray.C": "cpp",
+        "pelindrome.C": "cpp",
+        "anagrams.C": "cpp",
+        "pangram.C": "cpp",
+        "balancebracket.C": "cpp"
+    }
+}
